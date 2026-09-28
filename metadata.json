@@ -1,0 +1,6 @@
+{
+  "name": "Bolt Drop",
+  "description": "3D mechanical screw puzzle game where you unscrew bolts and match colors to clear falling panels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
